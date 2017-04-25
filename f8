@@ -1,0 +1,3 @@
+#!/bin/bash
+
+10 05 * * * echo /bin/hello > /binta
